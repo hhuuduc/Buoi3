@@ -1,1 +1,6 @@
 E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\2001207422_HuynhHuuDuc_Buoi03\Bai2\bin\Debug\Bai2.exe.config
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\2001207422_HuynhHuuDuc_Buoi03\Bai2\bin\Debug\Bai2.exe
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\2001207422_HuynhHuuDuc_Buoi03\Bai2\bin\Debug\Bai2.pdb
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\2001207422_HuynhHuuDuc_Buoi03\Bai2\obj\Debug\Bai2.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\2001207422_HuynhHuuDuc_Buoi03\Bai2\obj\Debug\Bai2.exe
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\2001207422_HuynhHuuDuc_Buoi03\Bai2\obj\Debug\Bai2.pdb

@@ -9,27 +9,43 @@ namespace Bai2
     class SinhVien
     {
         private int maSV;
+
+        public int MaSV
+        {
+          get { return maSV; }
+          set { maSV = value; }
+        }
         private string hoTenSV;
-        private float diemLT, diemTH;
 
-        public int getMaSV(int model)
+        public string HoTenSV
         {
-            return maSV;
+            get { return hoTenSV; }
+            set { hoTenSV = value; }
+        }
+        private double diemLT, diemTH;
+
+        public double DiemLT
+        {
+            get { return diemLT; }
+            set { diemLT = value; }
         }
 
-        public string getHoTenSV(string model)
+        public double DiemTH
         {
-            return hoTenSV;
+            get { return diemTH; }
+            set { diemTH = value; }
         }
 
-        public float getDiemLT(float model)
+        public double DiemTB()
         {
-            return diemLT;
+            return (DiemLT + DiemTH) / 2;
         }
 
-        public float getDiemTH(float model)
-        {
-            return diemTH;
-        }
+        //public int maSV { get; set; }
+        //public string hoTenSV { get; set; }
+        //public double diemLT { get; set; }
+        //public double diemTH { get; set; }
+
+
     }
 }
