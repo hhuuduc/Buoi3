@@ -3,3 +3,4 @@ E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\2001207422_HuynhHuuDuc_Buoi03\Bai3\b
 E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\2001207422_HuynhHuuDuc_Buoi03\Bai3\bin\Debug\Bai3.pdb
 E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\2001207422_HuynhHuuDuc_Buoi03\Bai3\obj\Debug\Bai3.exe
 E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\2001207422_HuynhHuuDuc_Buoi03\Bai3\obj\Debug\Bai3.pdb
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\2001207422_HuynhHuuDuc_Buoi03\Bai3\obj\Debug\Bai3.csprojResolveAssemblyReference.cache

@@ -41,27 +41,33 @@ namespace Bai3
 
         public TamGiac() { }
 
-        public void KiemTra()
+        public TamGiac(int a, int b, int c) {
+            this.Ma = a;
+            this.Mb = b;
+            this.Mc = c;
+        }
+
+        public string KiemTra()
         {
             if (Ma + Mb < Mc || Ma + Mc < Mb || Mb + Mc < Ma)
             {
                 //la tam giac
-                Console.WriteLine("day khong phai la tam giac ");
+                return "day khong phai la tam giac ";
             }
             else if (Ma == Mb && Mb == Mc)
             {
                 //tam giac deu
-                Console.WriteLine("day la tam giac deu");
+                return"day la tam giac deu";
             }
             else if (Ma == Mb || Ma == Mc || Mb == Mc) // 2 canh bat ky bang nhau
             {
                 // tam giac can
-                Console.WriteLine("day la tam giac can");
+                return "day la tam giac can";
             }
             else
             {
                 // khong phai tam giac
-                Console.WriteLine("la  TAM GIAC ");
+                return "la  TAM GIAC ";
             }
         }
 
